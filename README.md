@@ -43,7 +43,7 @@ imu-visualizer-3d/
 All settings can be modified in `config.py`:
 
 ### Serial Communication
-- `PORT` - Serial port (e.g., "COM4", "/dev/ttyUSB0")
+- `PORT` - Serial port (e.g., "COM4")
 - `BAUD` - Baud rate (default: 9600)
 - `TIMEOUT` - Serial timeout in seconds
 - and some more
