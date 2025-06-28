@@ -1,4 +1,4 @@
-# IMU Tilt Visualizer
+# IMU 3D Visualizer
 
 A real-time 3D visualization tool for IMU tilt data with particle effects, color modes, and a bit more.
 
